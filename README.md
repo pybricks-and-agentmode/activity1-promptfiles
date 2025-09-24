@@ -8,6 +8,15 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
+## Activity 1
+
+The intention of this activity is to create a break dance robot that can move its arms and hips, flash lights, and play sounds in a coordinated countdown dance routine.
+
+Make sure to check the robot name in the `launch.json` file and update it to match your hub.
+
+We will achieve this with the built in prompts in `.github/prompts` which will guide you step-by-step through the process.
+Make sure to choose Agent Mode in GitHub Copilot Chat and then run the prompts in order by typing ```/0-setup```, ```/1-start``` etc in the chat.
+
 ## Robot Blink Script
 
 This repository includes a simple MicroPython script for Pybricks hubs:
