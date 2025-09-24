@@ -1,4 +1,20 @@
+# Activity 1
+
+This repository was created from [the Pybricks template](https://github.com/pybricks-and-agentmode/template)
+
+The intention of this activity is to create a break dance robot that can move its arms and hips, flash lights, and play sounds in a coordinated countdown dance routine.
+
+Make sure to check the robot name in the `launch.json` file and update it to match your hub.
+
+We will achieve this with the built in prompts in `.github/prompts` which will guide you step-by-step through the process.
+Make sure to choose Agent Mode in GitHub Copilot Chat and then run the prompts in order by typing ```/0-setup```, ```/1-start``` etc in the chat.
+
+Note: The prompts are not intended to be perfect, but rather to guide you through the process and inspire you to create your own prompt files for future projects.
+
+[Documentation for prompt files](https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files/your-first-prompt-file)
+
 # Quickly get started with Pybricks
+
 
 Create a new virtual environment, install the dependencies from `requirements.txt`, and open thefolder in VS Code.
 
@@ -8,14 +24,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-## Activity 1
-
-The intention of this activity is to create a break dance robot that can move its arms and hips, flash lights, and play sounds in a coordinated countdown dance routine.
-
-Make sure to check the robot name in the `launch.json` file and update it to match your hub.
-
-We will achieve this with the built in prompts in `.github/prompts` which will guide you step-by-step through the process.
-Make sure to choose Agent Mode in GitHub Copilot Chat and then run the prompts in order by typing ```/0-setup```, ```/1-start``` etc in the chat.
 
 ## Robot Blink Script
 
